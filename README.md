@@ -21,6 +21,11 @@ It supports playlists, displays song details, and includes playback controls wit
 
 ---
 
+⚠️ Note: Audio files are not included due to GitHub size limits.  
+Please add your own MP3 files inside the `assets/music/` folder to test the player.
+
+---
+
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
